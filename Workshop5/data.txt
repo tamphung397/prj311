@@ -1,0 +1,12 @@
+    Huawei:
+       S0015-Huawei30Pro-China-6000000
+       S0030-Huawei20-China-10000000
+    SamSung:
+       S0020-GalaxyS9-Korea-500000
+       S0050-GalaxyS9Plus-Usa-400000
+       S0060-GalaxyNote9-Korea-800000
+    Apple:
+       S0100-IphoneX-Usa-5000
+       S0200-Iphone7-Usa-700000
+    Xiaomi:
+       S8989-Xiami123-China-22222

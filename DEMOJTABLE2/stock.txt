@@ -1,0 +1,4 @@
+1;Stock one;No1-Washington street;11/05/2010
+2;Stock two;372 Cave town-001 Banks;09/07/2011
+3;Stock three;Nary angle-890 Number onw;13/05/2010
+4;Stock four;Twin tower-01 Main street;04/07/2015

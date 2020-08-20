@@ -1,0 +1,10 @@
+{
+    "elements": {
+        "servlet-mapping": {},
+        "url-pattern": {},
+        "servlet": {},
+        "servlet-name": {},
+        "servlet-class": {}
+    },
+    "attributes": {}
+}
